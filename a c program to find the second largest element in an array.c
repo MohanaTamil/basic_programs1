@@ -5,7 +5,6 @@ int main()
 	printf("Input the size of array: ");
 	scanf("%d",&n);
 	printf("Input 5 elements in an array\n");
-	
 	for(i=0;i<n;i++)
 	 {
 	    printf("element-%d: ",i);
